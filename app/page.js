@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main id="home" className="text-center py-20">
-      <h1 className="text-4xl font-bold mb-4">Your Name's Portfolio</h1>
+      <h1 className="text-4xl font-bold mb-4">My Portfolio</h1>
       <p className="text-xl mb-4">キャッチメッセージを記載します</p>
 
       <section id="about" className="py-20">
